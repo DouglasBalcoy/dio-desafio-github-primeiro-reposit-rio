@@ -5,3 +5,5 @@ depois
 
 
 git commit - m "codigo para o titulo na inclusão no git hub"
+
+git push origin (main) aonde estamos 
