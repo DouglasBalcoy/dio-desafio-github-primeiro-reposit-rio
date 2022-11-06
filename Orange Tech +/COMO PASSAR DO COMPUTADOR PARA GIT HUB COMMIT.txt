@@ -1,0 +1,7 @@
+git add * = adiciona a pasta que ainda não esta no git hub ao dash bass 
+
+git status = para ver se ficou verde ou seja se deu certo
+depois
+
+
+git commit - m "codigo para o titulo na inclusão no git hub"
